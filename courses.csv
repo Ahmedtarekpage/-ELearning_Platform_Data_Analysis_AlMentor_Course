@@ -1,0 +1,10 @@
+course_id,course_name,instructor ,Whatsapp,gmail
+1,Ai & Pytgon,Ahmed Tarek,"""01000000000""",test1@gmail.com
+2,intro to ML,Mohammed,"""01000000001""",test2@gmail.com
+3,Deep Learning,Salah,"""01000000002""",test3@gmail.com
+4,Computer vision ,Eiad,"""01000000003""",test4@gmail.com
+5,NLP,Seif,"""01000000004""",test5@gmail.com
+6,Robotics ,Mazen,"""01000000005""",test6@gmail.com
+7,Self driving car,Mohammed Salah,"""01000000006""",test7@gmail.com
+8,C++,ENG Omar,"""01000000007""",test8@gmail.com
+9,English,Mr Tarek,"""01000000008""",test9@gmail.com
