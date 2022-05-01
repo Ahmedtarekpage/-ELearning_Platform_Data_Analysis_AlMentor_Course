@@ -24,8 +24,8 @@ CONTENTS OF THIS FILE
 
 INTRODUCTION
 ------------
-This application gets data from two main CSV files that come from an e-learning platform: the first is Students, and the second is Courses.
-We'll use this info in a csv file.
+This application gets data from two main CSV files that come from an e-learning platform: the first is Students.csv, and the second is Courses.csv
+We'll use this info in a csv files for.
 
  
  * Calculating Male and Female Percentages in our Platform
