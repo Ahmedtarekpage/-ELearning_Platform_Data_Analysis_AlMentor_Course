@@ -21,8 +21,8 @@ CONTENTS OF THIS FILE
 
 
 
-INTRODUCTION
-——————------
+
+##Introduction
 This application gets data from two main CSV files that come from an e-learning platform: the first is Students, and the second is Courses.
 We'll use this info in a csv file.
 
