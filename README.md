@@ -1,7 +1,6 @@
 
 # ELearning_Platform_Data_Analysis_AlMentor_Course
-You Can Get The Full COurse Tutorial From ALmentor.net 
-
+ALmentor.net provides the complete course tutorial.
 
 
 CONTENTS OF THIS FILE
@@ -23,25 +22,24 @@ CONTENTS OF THIS FILE
 
 
 INTRODUCTION
-------------
-This Application Getting data from 2 Main CSV Files Which Comes From an E-Learning Platform the first one is Students.csv and the 2nd one is courses.csv 
-we will use this data for
+——————
+This application gets data from two main CSV files that come from an e-learning platform: the first is Students, and the second is Courses.
+We'll use this info in a csv file.
 
- * Calculating The Percentages of Males & Females in our Platform
+ 
+ * Calculating Male and Female Percentages in our Platform
 
  * Arranging Courses Data in our Platform
  
- * Calculating Total Hour Spent in our Platform For Using it in Marketing
+ * Calculating the total time spent on our platform for marketing purposes
 
- * Getting The Best Course in our Platform dependend on Studying Hours
-
- * Calculating Most Selling Online Course Name
+ * Getting The best course in our platform is determined by the number of hours spent studying.
  
- * Knowing the best Student in our Platform (dependend on Studying hours)
+ * Recognizing the most talented student on our platform (dependend on Studying hours)
 
- * Knowing the Location of our Most Users in our Platform For the purpose of making an Event
+ * To create an event, we need to know where our most active users are on our platform.
 
- * Sending Automated Whatsapp & Gmail Messages for Users in Events, best student for a gift and The best seller instructor for Capturing a new Course WIth him
+ * Automated Whatsapp and Gmail Messages for Users at Events, top student for a present, and best seller teacher for capturing a new course with him
 
 REQUIREMENTS
 ------------
@@ -72,9 +70,7 @@ INSTALLATION
  * Setup Required libraries 
  * Run THe Code
 
- * You may want to disable Toolbar module, since its output clashes with
-   Administration Menu.
-
+ 
 
 
    
