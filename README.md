@@ -64,8 +64,8 @@ INSTALLATION
  
  * Download the Code From Github
  * Extract the Github File
- * Install as you would normally install pycharm : 
- * python from here : 
+ * Install as you would normally install pycharm : https://www.jetbrains.com/pycharm/
+ * python from here : https://www.python.org/downloads/
  * open the path you got the code
  * Go to Settings and Project and then Interpreter
  * Setup Required libraries 
