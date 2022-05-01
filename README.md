@@ -1,6 +1,6 @@
 
-# ELearning_Platform_Data_Analysis_AlMentor_Course
-ALmentor.net provides the complete course tutorial.
+# ELearning_Platform_Data_Analysis_Almentor_Course
+Almentor.net provides the complete course tutorial.
 
 
 CONTENTS OF THIS FILE
