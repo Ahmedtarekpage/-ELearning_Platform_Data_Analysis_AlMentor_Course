@@ -2,12 +2,6 @@
 # ELearning_Platform_Data_Analysis_AlMentor_Course
 You Can Get The Full COurse Tutorial From ALmentor.net 
 
-## Author
-
-- [@Ahmedtarekpage](https://github.com/Ahmedtarekpage)
-- Ahmedtprofile@gmail.com 
-- CEO of [@Awasis Science](https://www.awasisscience.com)
-
 
 
 CONTENTS OF THIS FILE
@@ -17,6 +11,16 @@ CONTENTS OF THIS FILE
  * Requirements
  * Recommended modules
  * Installation
+
+## Author
+
+- [@Ahmedtarekpage](https://github.com/Ahmedtarekpage)
+
+- Ahmedtprofile@gmail.com 
+
+- CEO of [@Awasis Science](https://www.awasisscience.com)
+
+
 
 INTRODUCTION
 ------------
